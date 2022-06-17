@@ -1,4 +1,4 @@
-# ExerciseTrainerDemo
+# Exercise Trainer Demo
 
 The three main features of this app are live leaderboards, machine learning recognition & mistake detection, and augmented reality training through demonstration.
 
